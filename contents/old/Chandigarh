@@ -782,10 +782,10 @@ stdClass Object
                     [0] =&gt; stdClass Object
                         (
                             [source] =&gt; covid19india.org
-                            [total] =&gt; 6372405
-                            [recovered] =&gt; 5327283
-                            [deaths] =&gt; 99378
-                            [active] =&gt; 944831
+                            [total] =&gt; 6375084
+                            [recovered] =&gt; 5330442
+                            [deaths] =&gt; 99408
+                            [active] =&gt; 944321
                         )
 
                 )
@@ -1156,7 +1156,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2020-10-01T17:06:24.503Z
+    [lastRefreshed] =&gt; 2020-10-01T17:18:23.946Z
     [lastOriginUpdate] =&gt; 2020-10-01T02:30:00.000Z
 )
 

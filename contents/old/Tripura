@@ -17,7 +17,7 @@
 </head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="ZRLGUTiQyHeYDIMEFDYf5NgzKgucauRjM9WozxWrDBokhuLNVKBZ1jm0I58KfAy2eJpvwFlNCUBXaqfvj8Fkj5/iBZmoY46S9CWVX8DTXbnNqZJm2YJgGiPD4AwblDwp6bOiNXNAUor4B04za4UcCNA5DBZ42D2Kd022tzxFdUXNyhminP6qgpey+lVEKNSDkQTJzfWmuUaEVJNukQHaCFVTrklq2+p9xP2vhqtAxYurJ+nSa5j2cLm6MtNgBq13"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="HVmGk8HUwG+g+u+0VDnDvL0UKk387dusoibg4FgOHSzohl+hZaXe+9iT0IBj2rniBiSy6H9gZF4WF1pv+EeGa/9KZCM5V2hNdwS+4YYQJnUEGskgGHT6dMtcTci9xa37/0smQ53S2WwTx4B9OzNG9h02balUR3cKddF9MyMEzHCiDr+mXMMVc7suUwmOdLFJf4e6iOU4JbguK3LEXqeAKcWudOjo3nAxZUoeQgU+yzz6L1sTPCyQtKBTUkhgsZAR"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <header class="bg-light-black">
 <nav class="navbar navbar-expand-md bg-violet navbar-dark">
@@ -85,28 +85,28 @@
 <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
 <div class="count-box py-5">
 <i class="fas fa-suitcase-rolling text-danger"></i>
-<span class="Count" id="lblPassengerScreened">82947</span>
+<span class="Count" id="lblPassengerScreened">7847</span>
 <p>Persons screened</p>
 </div>
 </div>
 <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
 <div class="count-box py-5">
 <i class="fas fa-file-medical text-danger"></i>
-<span class="Count" id="lblActiceCases">1289</span>
+<span class="Count" id="lblActiceCases">50</span>
 <p>Active COVID-19 Cases</p>
 </div>
 </div>
 <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
 <div class="count-box pb-5 pt-0 pt-lg-5">
 <i class="fas fa-heartbeat text-danger"></i>
-<span class="Count" id="lblCuredCases">30035</span>
+<span class="Count" id="lblCuredCases">3279</span>
 <p>Cured Cases</p>
 </div>
 </div>
 <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
 <div class="count-box pb-5 pt-0 pt-lg-5">
 <i class="fas fa-frown text-danger"></i>
-<span class="Count" id="lblDeathCases">356</span>
+<span class="Count" id="lblDeathCases">17</span>
 <p>Death Cases</p>
 </div>
 </div>
@@ -306,10 +306,10 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <div class="col-lg-12 mt-4 text-danger">
 <span>Stats are as on Date: </span>
 <strong>
-<span id="lblStatsAsPerDate">10 Nov 2020</span></strong><br/>
+<span id="lblStatsAsPerDate">11 Nov 2020</span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">490541</span></strong>
+<span id="lblVisitorNumber">490561</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>

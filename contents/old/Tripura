@@ -17,7 +17,7 @@
 </head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="n5QjASgVnoN/jL5q1gEox4z/NutzglthO0Yu9+MB0wdPkC2xc97RK0RkrRjepMgPxXLcEscMZQdwHo014EqGyFPvfg3xS0XnovhA68/BM0mXTp8Gcn0l/gaH8VjeHXzGP4rB80ecrguFVoFmh/0rZphkrhiDzuwq/BOzW0ZelQY64Ylpan0MPOKxrkDOhSSxp/n2S1xV/FIL8N4Fx+ITcXxv9EfYngbrGN2vhi1U45OqGlEglazIyQpWuJ+anI04"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="VXCF14k5qSp0fw9W4zil8rsAqOPIN6hMAyURUjgWTr2l/SQ+mh4IH5K/TEQ9ugtx7dWwWGVUH/y2XYjDz3+cvqndcGL0R3WafMqLwPKTXeS4HKEzZhTw7ZKgRYzIFr4fSHKj4BriSzDGqaaMAHFf83a4bYyYCZ/ZdVge6GNjRWcUAxARlQug7WghH6Im1mkAMY13kOcG7nHb7nph3c7BC5FZ5nuZf3sCp2kcIBnOAy6r6HoRGPcyG1QkIVFgv1Ya"/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <header class="bg-light-black">
 <nav class="navbar navbar-expand-md bg-violet navbar-dark">
@@ -309,7 +309,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <span id="lblStatsAsPerDate">18 Nov 2020</span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">494393</span></strong>
+<span id="lblVisitorNumber">494400</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>

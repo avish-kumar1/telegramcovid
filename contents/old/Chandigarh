@@ -367,7 +367,7 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="row">
 <div class="col-md-12 form-group pt-10 mb-0">
 <div class="card bg-success text-white mb-10 plr-10">
-<div class="card-body ptb-10 text-center">Home Quarantined :  50915</div>
+<div class="card-body ptb-10 text-center">Home Quarantined :  50990</div>
 </div>
 <div class="col-12 text-center">* Statistics sourced from Municipal Corporation, Chandigarh</div>
 </div>
@@ -418,7 +418,7 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <hr/>
 <div class="field-items">
 <div class="even field-item">
-<h5 class="mb-0 pb-10">COVID19 STATEWISE STATUS (*including foreign nationals, as on 2020-12-30 08:00:00)</h5>
+<h5 class="mb-0 pb-10">COVID19 STATEWISE STATUS (*including foreign nationals, as on 2020-12-31 08:00:00)</h5>
 <p> * Statistics sourced from The Ministry of Health and Family Welfare :-</p>
 <div class="table-responsive">
 <table border="1" cellpadding="1" cellspacing="1" class="table table-dark table-striped">
@@ -434,45 +434,45 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <tbody><tr>
 <td>1</td>
 <td>Andaman and Nicobar Islands</td>
-<td>4936</td>
-<td>4811</td>
+<td>4941</td>
+<td>4820</td>
 <td>62</td>
 </tr><tr>
 <td>2</td>
 <td>Andhra Pradesh</td>
-<td>881599</td>
-<td>871116</td>
-<td>7100</td>
+<td>881948</td>
+<td>871588</td>
+<td>7104</td>
 </tr><tr>
 <td>3</td>
 <td>Arunachal Pradesh</td>
-<td>16709</td>
-<td>16538</td>
+<td>16711</td>
+<td>16549</td>
 <td>56</td>
 </tr><tr>
 <td>4</td>
 <td>Assam</td>
-<td>216063</td>
-<td>211723</td>
-<td>1040</td>
+<td>216139</td>
+<td>211838</td>
+<td>1043</td>
 </tr><tr>
 <td>5</td>
 <td>Bihar</td>
-<td>250928</td>
-<td>244599</td>
-<td>1389</td>
+<td>251348</td>
+<td>245156</td>
+<td>1393</td>
 </tr><tr>
 <td>6</td>
 <td>Chandigarh</td>
-<td>19615</td>
-<td>18937</td>
+<td>19682</td>
+<td>18967</td>
 <td>316</td>
 </tr><tr>
 <td>7</td>
 <td>Chhattisgarh</td>
-<td>277471</td>
-<td>261663</td>
-<td>3336</td>
+<td>278540</td>
+<td>263251</td>
+<td>3350</td>
 </tr><tr>
 <td>8</td>
 <td>Dadra and Nagar Haveli and Daman and Diu</td>
@@ -482,62 +482,62 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 </tr><tr>
 <td>9</td>
 <td>Delhi</td>
-<td>624118</td>
-<td>607494</td>
-<td>10502</td>
+<td>624795</td>
+<td>608434</td>
+<td>10523</td>
 </tr><tr>
 <td>10</td>
 <td>Goa</td>
-<td>50884</td>
-<td>49199</td>
-<td>735</td>
+<td>50981</td>
+<td>49313</td>
+<td>737</td>
 </tr><tr>
 <td>11</td>
 <td>Gujarat</td>
-<td>243459</td>
-<td>229143</td>
-<td>4295</td>
+<td>244258</td>
+<td>229977</td>
+<td>4302</td>
 </tr><tr>
 <td>12</td>
 <td>Haryana</td>
-<td>261672</td>
-<td>254880</td>
-<td>2892</td>
+<td>262054</td>
+<td>255356</td>
+<td>2899</td>
 </tr><tr>
 <td>13</td>
 <td>Himachal Pradesh</td>
-<td>54894</td>
-<td>50631</td>
-<td>925</td>
+<td>55114</td>
+<td>51387</td>
+<td>931</td>
 </tr><tr>
 <td>14</td>
 <td>Jammu and Kashmir</td>
-<td>120527</td>
-<td>115560</td>
-<td>1879</td>
+<td>120744</td>
+<td>115830</td>
+<td>1880</td>
 </tr><tr>
 <td>15</td>
 <td>Jharkhand</td>
-<td>114650</td>
-<td>112021</td>
-<td>1025</td>
+<td>114873</td>
+<td>112206</td>
+<td>1027</td>
 </tr><tr>
 <td>16</td>
 <td>Karnataka</td>
-<td>917571</td>
-<td>893617</td>
-<td>12074</td>
+<td>918544</td>
+<td>894834</td>
+<td>12081</td>
 </tr><tr>
 <td>17</td>
 <td>Kerala</td>
-<td>749450</td>
-<td>681397</td>
-<td>3014</td>
+<td>755718</td>
+<td>687104</td>
+<td>3042</td>
 </tr><tr>
 <td>18</td>
 <td>Ladakh</td>
-<td>9436</td>
-<td>9100</td>
+<td>9447</td>
+<td>9132</td>
 <td>127</td>
 </tr><tr>
 <td>19</td>
@@ -548,99 +548,99 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 </tr><tr>
 <td>20</td>
 <td>Madhya Pradesh</td>
-<td>240081</td>
-<td>226904</td>
-<td>3582</td>
+<td>240947</td>
+<td>227965</td>
+<td>3595</td>
 </tr><tr>
 <td>21</td>
 <td>Maharashtra</td>
-<td>1925066</td>
-<td>1820021</td>
-<td>49373</td>
+<td>1928603</td>
+<td>1824934</td>
+<td>49463</td>
 </tr><tr>
 <td>22</td>
 <td>Manipur</td>
-<td>28096</td>
-<td>26521</td>
-<td>353</td>
+<td>28137</td>
+<td>26601</td>
+<td>354</td>
 </tr><tr>
 <td>23</td>
 <td>Meghalaya</td>
-<td>13387</td>
-<td>13066</td>
-<td>138</td>
+<td>13408</td>
+<td>13085</td>
+<td>139</td>
 </tr><tr>
 <td>24</td>
 <td>Mizoram</td>
-<td>4199</td>
-<td>4088</td>
+<td>4204</td>
+<td>4091</td>
 <td>8</td>
 </tr><tr>
 <td>25</td>
 <td>Nagaland</td>
-<td>11917</td>
-<td>11595</td>
+<td>11921</td>
+<td>11624</td>
 <td>79</td>
 </tr><tr>
 <td>26</td>
 <td>Odisha</td>
-<td>329001</td>
-<td>324775</td>
-<td>1868</td>
+<td>329306</td>
+<td>325103</td>
+<td>1871</td>
 </tr><tr>
 <td>27</td>
 <td>Puducherry</td>
-<td>38070</td>
-<td>37074</td>
+<td>38096</td>
+<td>37100</td>
 <td>633</td>
 </tr><tr>
 <td>28</td>
 <td>Punjab</td>
-<td>165878</td>
-<td>156719</td>
-<td>5322</td>
+<td>166239</td>
+<td>157043</td>
+<td>5331</td>
 </tr><tr>
 <td>29</td>
 <td>Rajasthan</td>
-<td>306784</td>
-<td>293888</td>
-<td>2683</td>
+<td>307554</td>
+<td>295030</td>
+<td>2689</td>
 </tr><tr>
 <td>30</td>
 <td>Sikkim</td>
-<td>5864</td>
-<td>5201</td>
-<td>126</td>
+<td>5877</td>
+<td>5218</td>
+<td>127</td>
 </tr><tr>
 <td>31</td>
 <td>Tamil Nadu</td>
-<td>816132</td>
-<td>795293</td>
-<td>12092</td>
+<td>817077</td>
+<td>796353</td>
+<td>12109</td>
 </tr><tr>
 <td>32</td>
 <td>Telengana</td>
-<td>285939</td>
-<td>278523</td>
-<td>1538</td>
+<td>286354</td>
+<td>278839</td>
+<td>1541</td>
 </tr><tr>
 <td>33</td>
 <td>Tripura</td>
-<td>33258</td>
-<td>32735</td>
+<td>33264</td>
+<td>32751</td>
 <td>385</td>
 </tr><tr>
 <td>35</td>
 <td>Uttar Pradesh</td>
-<td>583941</td>
-<td>561257</td>
-<td>8340</td>
+<td>584966</td>
+<td>562459</td>
+<td>8352</td>
 </tr><tr>
 <td>36</td>
 <td>West Bengal</td>
-<td>549715</td>
-<td>527272</td>
-<td>9655</td>
+<td>550893</td>
+<td>528829</td>
+<td>9683</td>
 </tr><tr>
 <td colspan="2">Total number of confirmed cases in India</td>
 <td>7945975</td>
@@ -1155,7 +1155,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2020-12-31T11:04:19.411Z
+    [lastRefreshed] =&gt; 2020-12-31T11:30:20.340Z
     [lastOriginUpdate] =&gt; 2020-12-31T02:30:00.000Z
 )
 

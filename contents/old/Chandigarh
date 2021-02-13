@@ -317,37 +317,37 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Confirmed</div>
-<div class="card-body">21184</div>
+<div class="card-body">21220</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Recovered</div>
-<div class="card-body">20700</div>
+<div class="card-body">20752</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Deaths</div>
-<div class="card-body">344</div>
+<div class="card-body">345</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-danger text-white text-center">
 <div class="card-header">Total Sampled</div>
-<div class="card-body">230418</div>
+<div class="card-body">233067</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-primary text-white text-center">
 <div class="card-header">Positive Cases</div>
-<div class="card-body">21184</div>
+<div class="card-body">21220</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
 <div class="card stats bg-warning text-white text-center">
 <div class="card-header">Negative Cases</div>
-<div class="card-body">208291</div>
+<div class="card-body">210904</div>
 </div>
 </div>
 <div class="col-md-3 form-group">
@@ -359,7 +359,7 @@ Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronav
 <div class="col-md-3 form-group">
 <div class="card stats bg-success text-white text-center">
 <div class="card-header">Result Awaited</div>
-<div class="card-body">122</div>
+<div class="card-body">81</div>
 </div>
 </div>
 <div class="col-12 pt-10 text-center">* Statistics sourced from Department of Health, Chandigarh</div>
@@ -1155,7 +1155,7 @@ stdClass Object
 
         )
 
-    [lastRefreshed] =&gt; 2021-02-13T15:47:21.377Z
+    [lastRefreshed] =&gt; 2021-02-13T16:21:20.129Z
     [lastOriginUpdate] =&gt; 2021-02-13T02:30:00.000Z
 )
 
